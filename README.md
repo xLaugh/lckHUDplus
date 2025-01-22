@@ -35,7 +35,7 @@ Un HUD moderne et personnalisable pour FiveM, permettant aux joueurs de gérer l
 
 1. Téléchargez les fichiers
 2. Placez le dossier `lckHUDplus` dans votre dossier `resources`
-3. Ajoutez `ensure lckHUD` à votre `server.cfg`
+3. Ajoutez `ensure lckHUDplus` à votre `server.cfg`
 
 ## Configuration
 
