@@ -25,7 +25,7 @@ Un HUD moderne et personnalisable pour FiveM, permettant aux joueurs de gérer l
 
 ### HUD Masqué
 ![1 (2)](https://github.com/user-attachments/assets/e29fe8a1-bf1d-4751-ae00-a3ab0e371250)
-*Possibilité de masquer complètement le HUD*
+*Possibilité de masquer complètement un HUD*
 
 ### HUD en Jeu
 ![3](https://github.com/user-attachments/assets/1bc25aff-20fa-4d3a-89bb-35185cc3eb86)
