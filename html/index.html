@@ -9,26 +9,34 @@
     <script src="index.js"></script>
 </head>
 <body>
+    <div class="edit-buttons">
+        <button class="edit-button" id="confirmButton">Confirmer</button>
+        <button class="edit-button" id="resetButton">Reset HUD</button>
+    </div>
     <div class="bar">
-        <div class="hud-base">
+        <div class="hud-base" data-active="true">
+            <div class="toggle-button"></div>
             <i class="fa-solid fa-heart"></i>
             <div class="progress-bar">
                 <div class="inner-bar" id="health"></div>
             </div>
         </div>
-        <div class="hud-base">
+        <div class="hud-base" data-active="true">
+            <div class="toggle-button"></div>
             <i class="fa-solid fa-shield"></i>
             <div class="progress-bar">
                 <div class="inner-bar" id="shield"></div>
             </div>
         </div>
-        <div class="hud-base">
+        <div class="hud-base" data-active="true">
+            <div class="toggle-button"></div>
             <i class="fa-solid fa-utensils"></i>
             <div class="progress-bar">
                 <div class="inner-bar" id="eat"></div>
             </div>
         </div>
-        <div class="hud-base">
+        <div class="hud-base" data-active="true">
+            <div class="toggle-button"></div>
             <i class="fa-solid fa-droplet"></i>
             <div class="progress-bar">
                 <div class="inner-bar" id="water"></div>
